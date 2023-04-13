@@ -17,7 +17,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=vikkkas&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=Vikkas1702)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=Meet_Punmiya)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
